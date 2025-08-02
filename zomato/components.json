@@ -1,20 +1,23 @@
 [
   {
     "id": "zomato-button-primary",
-    "name": "Primary Button",
+    "name": "Primary Button", 
     "brand": "zomato",
     "category": "Button",
-    "tags": ["button", "primary", "cta"],
-    "size": "2.5KB",
-    "lastModified": "2024-01-15"
+    "tags": ["button", "primary", "cta"]
+  },
+  {
+    "id": "zomato-button-secondary",
+    "name": "Secondary Button",
+    "brand": "zomato", 
+    "category": "Button",
+    "tags": ["button", "secondary"]
   },
   {
     "id": "zomato-card-restaurant",
     "name": "Restaurant Card",
-    "brand": "zomato", 
-    "category": "Card",
-    "tags": ["card", "restaurant", "listing"],
-    "size": "15KB",
-    "lastModified": "2024-01-10"
+    "brand": "zomato",
+    "category": "Card", 
+    "tags": ["card", "restaurant", "listing"]
   }
 ]
