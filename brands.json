@@ -1,0 +1,26 @@
+[
+  {
+    "id": "zomato",
+    "name": "Zomato",
+    "color": "#E23744",
+    "componentCount": 5
+  },
+  {
+    "id": "swiggy",
+    "name": "Swiggy",
+    "color": "#FC8019", 
+    "componentCount": 4
+  },
+  {
+    "id": "cred",
+    "name": "CRED",
+    "color": "#000000",
+    "componentCount": 6
+  },
+  {
+    "id": "wise",
+    "name": "Wise",
+    "color": "#9FE870",
+    "componentCount": 3
+  }
+]
